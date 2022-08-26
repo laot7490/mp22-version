@@ -2,6 +2,6 @@
     "launcherversion": "0.2.1.2",
     "mpversion": "v1.1",
     "tu": "TU17",
-    "tuwarning": true,
+    "tuwarning": false,
     "downloadlink": "https://google.com"
 }
