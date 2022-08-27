@@ -1,5 +1,7 @@
 {
         "LauncherVersion": "0.0.0.1",
         "PatchVersion": "v1.0",
-        "TUVersion": "TU17"
+        "TUVersion": "TU17",
+        "TUWarning": false,
+        "LatestDownload": "https://google.com"
 }
